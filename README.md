@@ -1,6 +1,8 @@
 # Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis
 
-This is the replication package for the manuscript "Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis" by [Nicholas G. Theis](https://cas.uoregon.edu/directory/sociology/all/ntheis) and [Ryan Light](https://ryanlight.netlify.app/). From the abstract of the paper:
+This is the replication package for the manuscript "Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis" by [Nicholas G. Theis](https://cas.uoregon.edu/directory/sociology/all/ntheis) and [Ryan Light](https://ryanlight.netlify.app/). 
+
+From the abstract of the paper:
 
 Social science research on the environment has grown exponentially in the past four decades
 alongside increasing awareness that environmental risks, such as climate change, cannot be
@@ -19,4 +21,4 @@ politics. As scholars want to influence policy and industrial practice, their re
 reflects values consistent with the current political economic order. We conclude by highlighting
 the implications of these findings for the field of environmental social science.
 
-The analysis is done exclusively in R. All code to reproduce the analysis is available in the `scripts` subdirectory. Data that does not reproduce third-party data is available in the `data` repository. Most of the analysis can be replicated with these data. 
+The analysis is done exclusively in R. All code to reproduce the analysis is available in the `scripts` subdirectory. Data that does not reproduce third-party data are available in the `data` subdirectory. Most of the analysis can be replicated with these data. 
