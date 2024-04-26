@@ -85,6 +85,10 @@ meta_key <- keys_add %>% count(J9, period, sid)
 
 save(meta_key, file="data/meta_key_list.rda")
   
+#You can use the keys_add data from the data folder from here
+
+keys_add <- readRDS("data/keys_add.RDS")
+
 key_dtm <- cast_dtm(keys_add, document=sid, term=key_word, value=n)
 
 key_corp <- readCorpus(key_dtm, type="slam")
