@@ -1,6 +1,6 @@
 # Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis
 
-This is the replication package for the manuscript "Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis" by [Nicholas G. Theis](https://cas.uoregon.edu/directory/sociology/all/ntheis) and [Ryan Light](https://ryanlight.netlify.app/). 
+This is the replication package for the manuscript ["Surveying the Landscape of Environmental Social Science: A Bibliometric and Network Analysis"](https://iopscience.iop.org/article/10.1088/2515-7620/ad495d) by [Nicholas G. Theis](https://cas.uoregon.edu/directory/sociology/all/ntheis) and [Ryan Light](https://ryanlight.netlify.app/). 
 
 From the abstract of the paper:
 
